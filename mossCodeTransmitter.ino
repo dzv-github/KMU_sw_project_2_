@@ -1,6 +1,6 @@
 #define mossTime 250
 #define LedPin 7
-String s="f1u2c3k4 y5o6u7";
+String s="Hello World 1234";
 
 
 int AlphaMossLength[37]={
